@@ -1,0 +1,10 @@
+//
+//  Development.xcconfig
+//  rickandmorty
+//
+//  Created by Kamran Bekirov on 27.11.22.
+//
+
+PRODUCT_BUNDLE_IDENTIFIER = com.kamranbekirov.rickandmorty.dev
+PRODUCT_NAME = rickandmortyTest
+BASE_HOST = https:/$()/rickandmortyapi.com/api/
