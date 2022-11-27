@@ -163,7 +163,6 @@
 				5C6DFF792928AB8C0032D04E /* Modules */,
 				5C6DFF762928AB680032D04E /* Network */,
 				5C6DFF772928AB710032D04E /* Resources */,
-				5C6DFF7B2928ABA10032D04E /* Tests */,
 				5C6DFF6829289DD80032D04E /* Preview Content */,
 			);
 			path = rickandmorty;
@@ -227,13 +226,6 @@
 				5C3172D329293707008AB933 /* CharactersInteractor.swift */,
 			);
 			path = Characters;
-			sourceTree = "<group>";
-		};
-		5C6DFF7B2928ABA10032D04E /* Tests */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Tests;
 			sourceTree = "<group>";
 		};
 		5C6DFF7C2928ABC60032D04E /* Base */ = {
@@ -531,6 +523,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = rickandmorty/Resources/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Rick And Morty";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationPortrait";
@@ -563,6 +556,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = rickandmorty/Resources/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Rick And Morty";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationPortrait";
